@@ -1,5 +1,5 @@
 {
   "name": "h5bp-console-polyfill",
   "version": "0.0.1",
-  "main": "h5bp-console-polyfill.js"
+  "main": "console.js"
 }
